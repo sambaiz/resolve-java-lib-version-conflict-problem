@@ -1,7 +1,7 @@
-## resolve-java-lib-version-conlifct-problem
+## resolve-java-lib-version-conflict-problem
 
 - (ja) [Javaでの互換性のないライブラリのバージョン衝突問題をrelocationや独自のクラスローダーによって解消する - sambaiz-net](https://www.sambaiz.net/article/443/)
-- (en) [Solve the incompatible version conflict problem in Java by relocation and custom ClassLoader - sambaiz-net](https://www.sambaiz.net/en/article/443/)
+- (en) [Solve an incompatible version conflict problem in Java by relocation and custom ClassLoader - sambaiz-net](https://www.sambaiz.net/en/article/443/)
 
 ```sh
 $ mvn clean package dependency:tree
